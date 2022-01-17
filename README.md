@@ -1,4 +1,4 @@
-##Commands after being placed in the current directory
+## Commands after being placed in the current directory
 ```
 $ make && ./main
 $ ./main 20 (size of the half array)
